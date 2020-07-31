@@ -1,0 +1,6 @@
+name: Event Manager Block
+description: Plugin za prikaz časovnice dogodkov, koliko dni je še do dogodka oz. ali je dogodek že potekel.
+package: Custom
+
+type: module
+core: 8.x
